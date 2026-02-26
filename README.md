@@ -12,7 +12,7 @@ Terminal Guardian is a high-performance security layer for PowerShell. It acts a
 ### 🔗 Quick Links
 * **Official Website:** [terminalguardian.com](https://terminalguardian.com)
 * **Verify Downloads:** [Integrity Manifests](https://github.com/meanrobotics-dev/TerminalGuardian-integrity)
-* **Get a License:** [Purchase on Gumroad](https://terminalguardian.gumroad.com/)
+* **Get a License:** [Purchase on Gumroad](https://meanrobotics.gumroad.com/l/terminal-guardian)
 
 ---
 *Building at the intersection of Cybersecurity and AI Automation.*
