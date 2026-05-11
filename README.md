@@ -6,29 +6,29 @@ Mean Robotics LLC builds local-first software guardrails, deterministic automati
 
 ## Systems
 
-### Terminal Guardian
+### Terminal Guardian for PowerShell
 
-Command-line safety guardrails for PowerShell and terminal workflows. Terminal Guardian reviews high-risk commands before execution and helps reduce destructive mistakes in operator-driven and AI-assisted workflows.
+Windows PowerShell command-safety guardrails for high-risk operator and AI-assisted workflows. Terminal Guardian reviews risky PowerShell commands before execution to help reduce destructive mistakes.
 
-Status: Available
+**Status:** Available
 
-### Terminal Guardian Linux
+### Terminal Guardian for Linux
 
-Linux-focused command-risk mitigation for server-side environments.
+Bash-focused command-risk mitigation for Linux environments. Terminal Guardian for Linux evaluates high-risk Bash commands through a portable Bash-hook mode.
 
-Status: Release candidate
+**Status:** Release candidate / controlled pilot
 
 ### Agentic DMZ
 
-A secure, fail-closed execution environment for AI-assisted workflows, with emphasis on containment, evidence capture, and controlled execution boundaries.
+A fail-closed execution environment for AI-assisted workflows, with emphasis on containment, evidence capture, and controlled execution boundaries.
 
-Status: Active development
+**Status:** Active development
 
 ### Autonomous Local AI
 
 Local-first AI infrastructure for private, controlled automation.
 
-Status: Mean Labs / R&D
+**Status:** Mean Labs / R&D
 
 ## Operating Principles
 
@@ -43,4 +43,4 @@ Status: Mean Labs / R&D
 
 - Official website: https://meanrobotics.com
 - Terminal Guardian: https://terminalguardian.com
-- GitHub integrity files: see the TerminalGuardian-integrity repository
+- Release integrity materials are maintained per product repository.
